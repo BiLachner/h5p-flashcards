@@ -43,60 +43,60 @@
       "description": "Fortschrittstext, verfügbare Variablen: @card und @total. Beispiel: 'Karte @card von @total'"
     },
     {
-      "label": "Text des Weiter Buttons",
+      "label": "Text des \"Weiter\" Buttons",
       "default": "Weiter"
     },
     {
-      "label": "Text für den Vorherig Button",
-      "default": "Vorherig"
+      "label": "Text für den \"Vorherige\" Button",
+      "default": "Vorherige"
     },
     {
-      "label": "Text für den Antworten überprüfen Button",
+      "label": "Text für den \"Antworten überprüfen\" Button",
       "default": "Überprüfen"
     },
     {
-      "label": "Eingabe des Benutzers erfordern, bevor die Lösung eingesehen werden kann"
+      "label": "Eingabe des Benutzers einfordern, bevor die Lösung eingesehen werden kann"
     },
     {
-      "label": "Text for the answer input field",
-      "default": "Your answer"
+      "label": "Text für das Antwort-Eingabefeld",
+      "default": "Deine Antwort"
     },
     {
-      "label": "Text for correct answer",
-      "default": "Correct"
+      "label": "Text für die richtige Antwort",
+      "default": "Richtig"
     },
     {
-      "label": "Text for incorrect answer",
-      "default": "Incorrect"
+      "label": "Text für die falsche Antwort",
+      "default": "Falsch"
     },
     {
-      "label": "Show solution text",
-      "default": "Correct answer"
+      "label": "Zeige richtige Antwort",
+      "default": "Richtige Antwort"
     },
     {
-      "label": "Text for results title",
-      "default": "Results"
+      "label": "Text  für den Ergebnis-Titel",
+      "default": "Ergebnisse"
     },
     {
-      "label": "Text for number of correct",
-      "default": "@score of @total correct",
-      "description": "Result text, variables available: @score and @total. Example: '@score of @total correct'"
+      "label": "Text für die Anzahl der richtigen Antworten",
+      "default": "@score von @total richtig",
+      "description": "Ergebnis-Text, vorhandene Variablen: @score und @total. Beispiel: '@score von @total richtig'"
     },
     {
-      "label": "Text for show results",
-      "default": "Show results"
+      "label": "Text um die Ergebnisse zu zeigen",
+      "default": "Zeige Ergebnisse"
     },
     {
-      "label": "Text for short answer label",
+      "label": "Text für eine kurze Antwortbezeichnung",
       "default": "A:"
     },
     {
-      "label": "Text for \"retry\" button",
-      "default": "Retry"
+      "label": "Text für \"Wiederholung\" Knopf",
+      "default": "Wiederholen"
     },
     {
-      "label": "Case sensitive",
-      "description": "Makes sure the user input has to be exactly the same as the answer."
+      "label": "Groß-/Kleinschreibung beachten",
+      "description": "Stellt sicher, dass die Benutzereingaben genau mit der Antwort übereinstimmen."
     }
   ]
 }
